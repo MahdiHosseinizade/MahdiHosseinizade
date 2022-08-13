@@ -1,13 +1,8 @@
-<p align="center">
-  <h1 align="center">Welcome to <a href="(https://github.com/seyedmahdihosseinizade)">Seyed Mahdi Hosseini Zade's</a> Profile <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-</p>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=58A6FF&size=25center=ture&lines=Welcome+To+My+GitHub+Profile!;I'm+a+Front-end+Developer;I'm+a+React+Developer;" /></a>
-</p>
+
 
 - 👋 Hi, I’m Seyed Mahdi hosseini Zade
 - 👀 I’m interested in front-end web development(react)
-- 📫 My Linkedin : Seyed Mahdi Hosseini Zade
+
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"width="28" /> To connect with me</h2>
 
