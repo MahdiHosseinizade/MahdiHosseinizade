@@ -1,6 +1,22 @@
+
+
 - 👋 Hi, I’m Seyed Mahdi hosseini Zade
 - 👀 I’m interested in front-end web development(react)
 - 📫 My Linkedin : Seyed Mahdi Hosseini Zade
+
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"width="28" /> To connect with me</h2>
+
+<p align = "center">
+
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/seyed-mahdi-hosseini-zade-2537a9200/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/Mahdi_Hosseinizd/)
+ <a href="mailto:mahdihosseinizade2000@gmail.com?subject=Hello%20Dariush"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>&nbsp;
+
+
+</p>
+
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
