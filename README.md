@@ -28,3 +28,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
+
+
+<h2>📉 Github Status</h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=seyedmahdihosseinizade&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
+
+
+
