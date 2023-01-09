@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m Seyed Mahdi hosseini Zade
+- 👋 Hi, I’m  Mahdi hosseini Zade
 - 👀 I’m interested in front-end web development(react)
 
 
