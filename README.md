@@ -4,7 +4,7 @@
 - 👀 I’m interested in front-end web development(react)
 
 
-<h2>Currently learning Vue.js and interested in front-end web development (React)</h2>
+<h2>Currently learning Vue.js and interested in front-end web development with React</h2>
 
 
 <p align = "center">
