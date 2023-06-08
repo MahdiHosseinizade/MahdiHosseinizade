@@ -2,9 +2,11 @@
 
 - 👋 Hi, I’m  Mahdi hosseini Zade
 - 👀 I’m interested in front-end web development(react)
+- <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue.js Icon" />
 
 
-<h2> To connect with me</h2>
+<h2>Currently learning Vue.js and interested in front-end web development (React)</h2>
+
 
 <p align = "center">
 
