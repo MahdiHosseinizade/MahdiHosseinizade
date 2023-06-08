@@ -1,10 +1,10 @@
 
 
 - 👋 Hi, I’m  Mahdi hosseini Zade
-- 👀 I’m interested in front-end web development
+- 👀 Currently learning Vue.js and interested in front-end web development with React
 
-<h1>👋 Hi, I’m  Mahdi hosseini Zade</h1>
-<h2>👀 Currently learning Vue.js and interested in front-end web development with React</h2>
+<!-- <h1>👋 Hi, I’m  Mahdi hosseini Zade</h1>
+<h2></h2> -->
 
 
 <p align = "center">
