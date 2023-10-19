@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m  Mahdi hosseini Zade
-- 👀 Currently learning Vue.js and interested in front-end web development with React
+- 👀 I'm interested in front-end web development with React and Vue
 
 <!-- <h1>👋 Hi, I’m  Mahdi hosseini Zade</h1>
 <h2></h2> -->
